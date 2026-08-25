@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Zé
+# Hello, I'm José
 
 **Web Developer · Information Systems — PUC/PR**
 
