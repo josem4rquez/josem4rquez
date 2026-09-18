@@ -34,17 +34,6 @@ Comecei pelo back-end e hoje trabalho com clientes reais pela **No Fear**, start
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="150" src="./profile/stats.svg" />
-<img height="150" src="./profile/top-langs.svg" />
-
-</div>
-
----
-
 ## Contato
 
 <div align="center">
