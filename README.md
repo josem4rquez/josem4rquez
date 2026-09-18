@@ -2,47 +2,37 @@
 
 <div align="center">
 
-# Oi, eu sou o Zé
+# Oi, eu sou o José
 
-**Desenvolvedor Web · Sistemas de Informação — PUC/PR**
-
-</div>
-
----
-
-Comecei pelo front-end, construindo interfaces do zero em HTML, CSS e JavaScript puro, e hoje passo boa parte do tempo no back-end, com Python e banco de dados.
-
-Trabalho com clientes reais pela **No Fear**, uma startup que ajudei a montar. Somos uma equipe pequena, e eu cuido do back-end. O projeto atual é uma loja virtual em formato de catálogo com **mais de 11 mil produtos**: área do cliente, carrinho que envia o pedido pelo WhatsApp e painel administrativo. Em paralelo, estamos desenvolvendo um sistema sob medida para uma clínica odontológica.
-
-Na faculdade, o projeto que mais me ensinou foi o **PUC Eats**, uma plataforma de delivery para o campus feita sem framework nenhum. Foi ali que entendi, na marra, por que padronizar variáveis de CSS faz diferença.
-
----
-
-## Com o que eu trabalho
-
-`No dia a dia` — Python, FastAPI, SQLAlchemy, PostgreSQL, HTML, CSS, JavaScript
-
-`Estudando agora` — Java (POO), SQL, matemática discreta
-
-`Por diversão` — MicroPython no ESP32 e circuitos no Wokwi
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,js,java,mysql,git,github,vscode&theme=dark" />
+**Desenvolvedor Back-end · Sistemas de Informação — PUC/PR**
 
 </div>
 
 ---
 
-## Projetos
+Comecei pelo back-end e hoje trabalho com clientes reais pela **No Fear**, startup que ajudei a montar. Entre os projetos está o MVP de um software de gestão para clínicas odontológicas.
 
-**[PUC Eats](https://github.com/josem4rquez/puc-eats)** — Delivery para o campus em JavaScript puro. Busca em tempo real, carrinho salvo em localStorage, abas por categoria e cardápios em modal. Zero dependências.
+---
 
-**Clinia** — Protótipo front-end de um SaaS de gestão para clínicas de saúde. Seis módulos, dados persistidos em localStorage e tema white-label trocado por uma única variável CSS (`--brand`).
+## Stacks
 
-**GAROA://2099** — Site promocional com estética cyberpunk: chuva procedural, skyline em SVG animado e animações disparadas pelo scroll.
+**Back-end** — Python, FastAPI, SQLAlchemy, Alembic, Java
 
-**No Fear** — Desenvolvimento web para clientes, da proposta comercial à entrega. Back-end em FastAPI + SQLAlchemy + Alembic + PostgreSQL.
+<img src="https://skillicons.dev/icons?i=python,fastapi,java&theme=dark" />
+
+**Front-end** — HTML, CSS, JavaScript
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+**Dados** — PostgreSQL, MySQL
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+
+**Ferramentas** — Git, GitHub, VS Code
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+**Hardware** — MicroPython, ESP32, Wokwi
 
 ---
 
