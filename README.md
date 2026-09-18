@@ -24,7 +24,7 @@ Comecei pelo back-end e hoje trabalho com clientes reais pela **No Fear**, start
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-**Dados** — PostgreSQL, MySQL
+**Dados** — PostgreSQL, MySQL, pandas, Matplotlib (pyplot)
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 
@@ -38,8 +38,8 @@ Comecei pelo back-end e hoje trabalho com clientes reais pela **No Fear**, start
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=josem4rquez&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josem4rquez&layout=compact&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&hide=html" />
+<img height="150" src="./profile/stats.svg" />
+<img height="150" src="./profile/top-langs.svg" />
 
 </div>
 
