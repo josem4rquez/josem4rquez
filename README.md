@@ -26,9 +26,7 @@ Comecei pelo back-end e hoje trabalho com clientes reais pela **No Fear**, start
 
 **Dados** — PostgreSQL, MySQL, Pandas, Matplotlib, Pyplot
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+<p><img height="48" src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />&nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />&nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></p>
 
 **Ferramentas** — Git, GitHub, VS Code
 
